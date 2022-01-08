@@ -22,3 +22,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/migrations
+public
+test
+.babelrc
+.eslintrc.js
+.eslintrc.json
+package-lock.json
+package.json
+truffle-config.js
