@@ -1,6 +1,6 @@
 pragma solidity = 0.5.16;
 
-contract Token {
+contract OOTToken {
     string  public name = "OOT Token";
     string  public symbol = "OOT";
     uint256 public totalSupply = 20000000000000000000000000; // 20 millions tokens
